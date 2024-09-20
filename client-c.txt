@@ -1,4 +1,8 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Step 1: Define step value as increase by increments of 2
+Step 2: Create loop
+Step 3: Start count at = 2
+Step 4: End loop when count = 51. 
 
