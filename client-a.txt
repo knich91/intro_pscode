@@ -1,4 +1,16 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Step 1: Generate a random number between 1 and 10
+Step 2: Set number of attempts to 3
+Step 3: Start the game loop
+Step 4: Ask the player for their guess
+Step 5: Check if the guess is correct
+	If guess = number Then print "Congrats! You've guessed right". End game loop
+	If guess > number Then print "too high!"
+	If guess < number Then print "too low!"
+Step 6: Decrease the number of attempts
+Step 7: Check if player has more attempts 
+	If attempts = 0 Then print "Sorry, you're out of guesses. The correct number was number"
+	If attempts > 0 Then print "You have #ofattempts left"
+Step 8: End game loop
