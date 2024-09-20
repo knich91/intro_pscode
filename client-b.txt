@@ -1,4 +1,15 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Step 1: Define warehouse grid using coordinates
+Step 2: Define movements north, south, east or west. These moves will either increase or decrease the distance between coordinates
+Step 3: Identify customer starting position
+Step 4: Display customer starting position and print "Your current position"
+Step 5: Identify target position
+Step 6: Display target position and print "Destination"
+Step 7: Link the customer starting position and target position together.
+Step 8: Loop until customer starting position reaches target position
+Step 9: Provide movement directions from the customer starting positions to the target position.
+Step 10: Check to see if customer has reached the target position. 
+Step 11: If coordinate = target position end loop. 
 
